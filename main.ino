@@ -6,9 +6,9 @@
 #define RX 6
 #define TX 7
 TinyGPS gps;
-String AP = "Redmi Note 5";       // AP NAME
-String PASS = "3040501991"; // AP PASSWORD
-String API = "GC27IQG9E11UHZ17";   // Write API KEY
+String AP = "####";       // AP NAME
+String PASS = "####"; // AP PASSWORD
+String API = "#########";   // Write API KEY
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 String field1 = "field1";
